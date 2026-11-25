@@ -1,0 +1,7 @@
+data/
+*.h5ad
+*.npz
+*.mtx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

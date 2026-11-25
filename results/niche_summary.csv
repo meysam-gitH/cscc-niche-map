@@ -1,0 +1,11 @@
+niche,n_spots,patients,immune_pct,lymphoid_pct,myeloid_pct,TSK_pct,fibroblast_pct,endothelial_pct
+TSK leading edge,902,4,0.81,0.33,0.48,52.7,10.5,5.0
+Tumour core (TSK/diff),1244,4,0.4,0.17,0.23,35.8,4.8,1.1
+Tumour core (stress-low),767,4,0.53,0.2,0.33,34.7,4.5,1.0
+Stressed tumour,530,4,1.67,0.28,1.38,32.8,5.8,1.9
+Keratinising tumour,1347,4,0.8,0.2,0.61,10.1,3.4,0.8
+Epidermis (LC),577,4,3.85,0.6,3.25,22.8,5.2,1.4
+Fibro-myeloid stroma,351,4,5.56,1.5,4.06,22.4,12.4,4.1
+Vascular immune stroma,1577,4,7.83,2.66,5.17,12.4,16.5,6.8
+Lymphocyte/NK stroma,674,4,6.21,2.15,4.07,18.3,12.3,4.4
+T-cell–DC hub,210,4,8.69,2.47,6.22,19.2,14.2,4.7

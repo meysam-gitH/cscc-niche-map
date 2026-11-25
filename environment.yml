@@ -1,0 +1,15 @@
+name: cscc
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - scanpy
+  - leidenalg
+  - scikit-learn
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - igraph
+  - pip
+  - pip:
+      - harmonypy==0.0.9
